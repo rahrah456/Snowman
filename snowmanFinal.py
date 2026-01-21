@@ -27,7 +27,6 @@ def snowman_base():
     print("        - -- - - - -- - -- - - - - --")
     print("        - -- - - - -- - -- - - - - --")
 
-
 snowman_head()
 snowman_body()
 snowman_base()
