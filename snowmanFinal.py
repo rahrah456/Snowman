@@ -8,11 +8,6 @@ def snowman_head():
     print("     \\       \\_/       /")
     print("      \\_______________/")
 
-
-def snowman_base():
-    print("- -- - - - -- - -- - - - - --")
-    print("- -- - - - -- - -- - - - - --")
-
 def snowman_body():
     print("        . -- ~~~ -- .")
     print("    .-~               ~-.")
@@ -25,6 +20,11 @@ def snowman_body():
     print("   \                     /")
     print("    `-.               .-'")
     print("        ~- . ___ . -~")
+
+def snowman_base():
+    print("- -- - - - -- - -- - - - - --")
+    print("- -- - - - -- - -- - - - - --")
+
 
 snowman_head()
 snowman_body()
